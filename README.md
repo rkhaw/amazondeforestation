@@ -1,2 +1,2 @@
 # amazondeforestation
-Investigation correlation between albedo and deforestation
+Investigation into the correlation between albedo and deforestation within the Amazon
